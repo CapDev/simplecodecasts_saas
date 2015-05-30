@@ -39,7 +39,7 @@ gem 'figaro', '1.0.0'
 # Use paperclip for mage uploads
 gem 'paperclip', '4.2.1'
 # Added to from Heroku warning
-ruby '2.1.1'
+# ruby '2.1.1' removed as restricted upload
 # Use ActiveModel has_secure_password
 # gem 'bcrypt', '3.1.7'
 # Use unicorn as the app server
